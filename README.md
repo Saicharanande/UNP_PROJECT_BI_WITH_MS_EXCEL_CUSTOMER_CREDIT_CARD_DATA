@@ -8,4 +8,4 @@ Pivot charts were created to visually represent trends and anomalies effectively
 This project demonstrated the power of Excel as a business intelligence (BI) tool for analyzing structured data.
 The collaboration with my friends helped me enhance my skills in data analysis, visualization, and teamwork.
 
-MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1ifuzCzoVgCJB37HMb62akDk0gfG0cJng/edit?usp=sharing&ouid=106376884833808143561&rtpof=true&sd=true
+MS EXCEL PROJECT FILE: https://1drv.ms/x/c/48f31bb409ecbd38/EWGcKAdoUqxFv0rFy9lVP6gBo2ETZiOL42nLyVzM5TZwvA?e=sloCZB
